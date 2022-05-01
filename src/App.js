@@ -23,7 +23,7 @@ function App() {
       </div>
 
       <Routes>
-        <Route path="/Poke-App" element={<Home />} />
+        <Route path="/Poke-App/" element={<Home />} />
         <Route path="/results/:search" element={<Results />} />
       </Routes>
     </div>
