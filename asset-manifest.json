@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Poke-App/static/css/main.d94a21bc.css",
+    "main.js": "/Poke-App/static/js/main.7e7ba2db.js",
+    "static/media/pikachu.png": "/Poke-App/static/media/pikachu.5a62567388280b79a3e0.png",
+    "index.html": "/Poke-App/index.html",
+    "main.d94a21bc.css.map": "/Poke-App/static/css/main.d94a21bc.css.map",
+    "main.7e7ba2db.js.map": "/Poke-App/static/js/main.7e7ba2db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94a21bc.css",
+    "static/js/main.7e7ba2db.js"
+  ]
+}
