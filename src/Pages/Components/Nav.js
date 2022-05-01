@@ -7,11 +7,11 @@ function Navigation() {
   return (
     <Navbar bg="dark" expand="lg">
   <Container>
-    <Navbar.Brand  style={{textDecoration: 'none'}}><Link to="/">Poke App</Link></Navbar.Brand>
+    <Navbar.Brand  style={{textDecoration: 'none'}}><Link to="/Poke-App">Poke App</Link></Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
-        <Nav.Link style={{textDecoration: 'none'}}><Link to="/">Home</Link></Nav.Link>
+        <Nav.Link style={{textDecoration: 'none'}}><Link to="/Poke-App">Home</Link></Nav.Link>
       </Nav>
     </Navbar.Collapse>
   </Container>
